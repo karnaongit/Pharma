@@ -9,9 +9,8 @@ export default function Home() {
       <HeroSection />
       <AboutPreview />
       <ProductOverview />
-        <ComplianceHighlights />
-        <DistributionMap />
-      
+      <ComplianceHighlights />
+      <DistributionMap />
     </>
   )
 }
