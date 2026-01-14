@@ -9,14 +9,14 @@ export default function TeamSection() {
 
   const teamMembers = [
     {
-      name: 'Dr. Priya Sharma',
+      name: 'Vanita Sharma',
       role: 'Chief Operating Officer',
       image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop',
       bio: '15+ years in pharmaceutical operations and quality management',
       gradient: 'from-blue-500 to-blue-600'
     },
     {
-      name: 'Amit Patel',
+      name: 'Varun Patel',
       role: 'Head of R&D',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop',
       bio: 'Leading innovation in drug formulation and development',
@@ -29,27 +29,27 @@ export default function TeamSection() {
       bio: 'Ensuring world-class quality standards across all products',
       gradient: 'from-purple-500 to-purple-600'
     },
-    {
-      name: 'Rahul Mehta',
-      role: 'Head of Sales & Marketing',
-      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop',
-      bio: 'Driving growth and building strategic partnerships',
-      gradient: 'from-orange-500 to-orange-600'
-    },
-    {
-      name: 'Dr. Anjali Singh',
-      role: 'Regulatory Affairs Manager',
-      image: 'https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=400&fit=crop',
-      bio: 'Navigating global regulatory compliance and certifications',
-      gradient: 'from-pink-500 to-red-600'
-    },
-    {
-      name: 'Vikram Reddy',
-      role: 'Supply Chain Director',
-      image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop',
-      bio: 'Optimizing logistics and distribution networks',
-      gradient: 'from-indigo-500 to-blue-600'
-    }
+    // {
+    //   name: 'Rahul Mehta',
+    //   role: 'Head of Sales & Marketing',
+    //   image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop',
+    //   bio: 'Driving growth and building strategic partnerships',
+    //   gradient: 'from-orange-500 to-orange-600'
+    // },
+    // {
+    //   name: 'Dr. Anjali Singh',
+    //   role: 'Regulatory Affairs Manager',
+    //   image: 'https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=400&fit=crop',
+    //   bio: 'Navigating global regulatory compliance and certifications',
+    //   gradient: 'from-pink-500 to-red-600'
+    // },
+    // {
+    //   name: 'Vikram Reddy',
+    //   role: 'Supply Chain Director',
+    //   image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop',
+    //   bio: 'Optimizing logistics and distribution networks',
+    //   gradient: 'from-indigo-500 to-blue-600'
+    // }
   ]
 
   const containerVariants = {

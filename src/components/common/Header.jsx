@@ -69,12 +69,12 @@ export default function Header() {
                 <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-orange-500 group-hover:w-full transition-all duration-300"></span>
               </Link>
             ))}
-            <Link
+            {/* <Link
               to="/contact"
               className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-2 rounded-full hover:shadow-lg transition-all duration-300"
             >
               Get Quote
-            </Link>
+            </Link> */}
           </div>
 
           {/* Mobile Menu Button */}

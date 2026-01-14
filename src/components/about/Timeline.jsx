@@ -8,42 +8,42 @@ export default function Timeline() {
 
   const milestones = [
     {
-      year: '1999',
+      year: '2019',
       icon: Rocket,
       title: 'Foundation',
       description: 'Sunrise Pharma was established with a vision to revolutionize pharmaceutical manufacturing in India.',
       gradient: 'from-blue-500 to-blue-600'
     },
     {
-      year: '2005',
+      year: '2022',
       icon: Building,
       title: 'First Manufacturing Unit',
       description: 'Opened our state-of-the-art manufacturing facility with WHO-GMP certification.',
       gradient: 'from-green-500 to-green-600'
     },
     {
-      year: '2010',
+      year: '2023',
       icon: Globe,
       title: 'International Expansion',
       description: 'Began exporting to international markets, reaching over 20 countries.',
       gradient: 'from-purple-500 to-purple-600'
     },
     {
-      year: '2015',
+      year: '2024',
       icon: Award,
       title: 'ISO Certification',
       description: 'Achieved ISO 9001:2015 certification for quality management excellence.',
       gradient: 'from-orange-500 to-orange-600'
     },
     {
-      year: '2020',
+      year: '2025',
       icon: TrendingUp,
       title: 'Product Portfolio Expansion',
       description: 'Expanded to nutraceuticals and wellness products, reaching 100+ SKUs.',
       gradient: 'from-pink-500 to-red-600'
     },
     {
-      year: '2024',
+      year: '2026',
       icon: Calendar,
       title: 'Innovation Hub',
       description: 'Launched dedicated R&D facility for developing next-generation healthcare solutions.',
@@ -185,7 +185,7 @@ export default function Timeline() {
               animate={{ scale: [1, 1.1, 1] }}
               transition={{ duration: 2, repeat: Infinity }}
             >
-              2024 & Beyond
+              2026 & Beyond
             </motion.div>
           </div>
         </motion.div>

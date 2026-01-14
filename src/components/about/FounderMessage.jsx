@@ -48,7 +48,7 @@ export default function FounderMessage() {
               <motion.img
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.4 }}
-                src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&h=900&fit=crop"
+                src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop"
                 alt="Founder"
                 className="w-full h-[600px] object-cover"
               />
@@ -62,7 +62,7 @@ export default function FounderMessage() {
                   transition={{ delay: 0.5, duration: 0.6 }}
                   className="text-3xl font-bold mb-2"
                 >
-                  Dr. Rajesh Kumar
+                  Dr. Varun
                 </motion.h3>
                 <motion.p
                   initial={{ opacity: 0, y: 20 }}
@@ -142,7 +142,7 @@ export default function FounderMessage() {
               className="space-y-6 text-lg text-gray-700 leading-relaxed"
             >
               <p>
-                When we founded Sunrise Pharma in 1999, we had a simple yet powerful vision: 
+                When we founded Sunrise Pharma in 2019, we had a simple yet powerful vision: 
                 to make quality healthcare accessible to everyone. Today, I'm proud to see how 
                 far we've come in realizing that dream.
               </p>
@@ -174,7 +174,7 @@ export default function FounderMessage() {
               className="mt-8 pt-6 border-t border-gray-200"
             >
               <div className="text-3xl font-signature text-orange-500 mb-2" style={{ fontFamily: 'cursive' }}>
-                Dr. Rajesh Kumar
+                Dr. Varun 
               </div>
               <div className="text-gray-600">Founder & Chief Executive Officer</div>
             </motion.div>
