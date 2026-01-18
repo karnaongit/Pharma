@@ -44,8 +44,8 @@ export default function Header() {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-orange-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
-              S
+            <div className="w-20 h-19 bg-gradient-to-br from-orange-500 to-orange-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
+              <img src="public\images\logo\logo.jpg" alt="" />
             </div>
             <div>
               <div className="font-bold text-xl text-gray-800">

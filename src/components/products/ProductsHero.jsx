@@ -78,8 +78,7 @@ export default function ProductsHero() {
             and wellness products - all manufactured with precision and certified to international standards.
           </motion.p>
 
-          {/* Search Bar */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4, duration: 0.6 }}
@@ -100,7 +99,7 @@ export default function ProductsHero() {
                 Search
               </motion.button>
             </div>
-          </motion.div>
+          </motion.div> */}
         </div>
 
         {/* Stats Grid */}
